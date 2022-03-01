@@ -1,0 +1,6 @@
+env
+config
+config_test
+__pycache__
+.DS_store
+InstagramBot
